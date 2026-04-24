@@ -57,7 +57,7 @@ A full-stack blogging platform powered by **MongoDB, Express.js, React.js, Node.
 ### Prerequisites
 - Node.js v18+
 - MongoDB Atlas account (or local MongoDB)
-- Google Gemini API Key
+- Groq API KEY
 
 ---
 
@@ -76,7 +76,7 @@ Edit `.env`:
 PORT=5000
 MONGO_URI=mongodb+srv://<user>:<pass>@cluster.mongodb.net/ai-blog
 JWT_SECRET=your_secret_key_here_make_it_long
-GEMINI_API_KEY=your_gemini_api_key
+GEMINI_API_KEY=your_groq_api_key
 CLIENT_URL=http://localhost:5173
 ```
 
@@ -183,8 +183,8 @@ Set env var: `VITE_API_URL=https://your-backend.onrender.com/api`
 
 ### Backend → Render / Railway
 - Set all `.env` variables in the deployment dashboard
-- Set build command: `npm install`
-- Set start command: `node server.js`
+- Set build command: `npm install.`
+- Set start command: `node server.js.`
 
 ---
 
