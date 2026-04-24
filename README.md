@@ -1,6 +1,6 @@
 # 🤖 AI-Powered Blog Platform — MERN Stack + Gemini AI
 
-A full-stack blogging platform powered by **MongoDB, Express.js, React.js, Node.js** and **Google Gemini AI**.
+A full-stack blogging platform powered by **MongoDB, Express.js, React.js, Node.js** and **Groq AI**.
 
 ---
 
@@ -48,7 +48,7 @@ A full-stack blogging platform powered by **MongoDB, Express.js, React.js, Node.
 | Backend | Node.js, Express.js |
 | Database | MongoDB, Mongoose |
 | Auth | JWT, bcryptjs |
-| AI | Google Gemini 1.5 Flash |
+| AI | Groq Api |
 
 ---
 
