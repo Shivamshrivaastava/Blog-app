@@ -19,7 +19,7 @@ A full-stack blogging platform powered by **MongoDB, Express.js, React.js, Node.
 - Cover image support
 - Auto read-time calculation
 
-### 🤖 AI Module (Gemini AI)
+### 🤖 AI Module (Groq AI)
 - **Generate Titles** — 5 engaging blog titles from a topic
 - **Generate Full Content** — Complete blog drafts with headings
 - **Auto Summary / Meta Description** — SEO-friendly 160-char summaries
